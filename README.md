@@ -1,4 +1,4 @@
-# Automated clustering of articles from The 20 newsgroups text dataset
+# Automated unsupervised clustering of articles from The 20 newsgroups text dataset
 
 Dataset available from https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
 
